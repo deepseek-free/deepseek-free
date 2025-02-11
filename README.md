@@ -17,8 +17,8 @@
 
 ## 已接入 DeepSeek R1（官方平替）
 
-* **AI智慧岛：**[chat.lify.vip](https://chat.lify.vip/)
-* **一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/)
+* **🔥AI智慧岛：**[chat.lify.vip](https://chat.lify.vip/)
+* **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/)
 * 秘塔 AI： [访问](https://metaso.cn/)
 * 纳米 AI： [访问](https://www.n.cn/)
 * Cursor： [访问](https://www.cursor.com/)
