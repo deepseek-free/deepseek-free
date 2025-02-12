@@ -6,7 +6,7 @@
 
 ## 关于 DeepSeek
 
-[DeepSeek](https://www.yixiaai.com) 是由深度求索（DeepSeek）自主研发的高性能大语言模型，以其开源、轻量化和强大的多场景适应能力受到广泛关注。其最新发布的 R1 大模型不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
+[DeepSeek](https://chat.lify.vip) 是由深度求索（DeepSeek）自主研发的高性能大语言模型，以其开源、轻量化和强大的多场景适应能力受到广泛关注。其最新发布的 R1 大模型不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
 
 ## DeepSeek 官方
 
