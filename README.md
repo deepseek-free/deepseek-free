@@ -10,14 +10,14 @@
 
 ## DeepSeek 官方
 
-* **DeepSeek 网页版：**[deepseek.com](https://www.deepseek.com/)
+* **DeepSeek 网页版：**[官网繁忙(chat.deepseek.com)](https://www.deepseek.com/) 、 [🔥稳定平替(chat.deepseek-free.org)](https://chat.lify.vip)
 * **DeepSeek 手机端：**[访问](https://download.deepseek.com/app/) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
 
 ## 已接入 DeepSeek R1（官方平替）
 
-* **🔥AI智慧岛：**[chat.lify.vip](https://chat.lify.vip/)
+* **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.lify.vip/)
 * **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/)
 * 秘塔 AI： [访问](https://metaso.cn/)
 * 纳米 AI： [访问](https://www.n.cn/)
