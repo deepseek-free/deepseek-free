@@ -1,6 +1,6 @@
 # DeepSeek 部署教程 / 免费 API 接口 / 官网平替 / 入门指南【2025年2月更新】
 
-> 更新日期：2025/02/25     
+> 更新日期：2025/02/25      
 
 [DeepSeek 专题](https://chat.yixiaai.com)提供 DeepSeek 部署教程，包括 PC 电脑端本地部署最新 DeepSeek-R1 模型，手机端通过 Termux 快速部署 DeepSeek-R1 模型。收录各大云平台服务（英伟达、微软、亚马逊AWS、阿里云、腾讯云、硅基流动 x 华为云）提供的（免费） API 接口服务，以及收录支持 DeepSeek API 应用等等。
 
@@ -33,14 +33,14 @@
 
 ## DeepSeek 模型云部署
 
-* **🔥硅基流动 x 华为云：**[注册](https://cloud.siliconflow.cn/i/ObQ4tEwW) 
+* **🔥硅基流动 x 华为云：**[注册](https://cloud.siliconflow.cn) 
 * **微软 Azure：**[注册](https://ai.azure.com/)
 * **英伟达 ：**[注册](https://build.nvidia.com/deepseek-ai/deepseek-r1)
 * **Cloudflare：**[注册](https://developers.cloudflare.com/workers-ai/models/)
 * **Gitee AI：**[注册](https://ai.gitee.com/serverless-api)
 * **亚马逊 AWS：**[注册](https://aws.amazon.com/cn/blogs/aws/deepseek-r1-models-now-available-on-aws)
 * **阿里云：**[注册](https://pai.console.aliyun.com/#/quick-start/)   [教程](https://help.aliyun.com/zh/pai/user-guide/one-click-deployment-deepseek-v3-model)
-* **腾讯云：**[注册](https://cloud.tencent.com/product/hai)   [教程](https://cloud.tencent.com/developer/article/2492543)
+* **腾讯云：**[注册](https://cloud.tencent.com/product/hai)
 * **百度智能云：**[注册](https://cloud.baidu.com/)
 * **火山引擎：**[注册](https://www.volcengine.com/)
 * **京东云：**[注册](https://www.jdcloud.com/)   [教程](https://docs.jdcloud.com/cn/yanxi-cap/practice-DeepSeek)
