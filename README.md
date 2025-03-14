@@ -1,6 +1,6 @@
 # DeepSeek 部署教程 / 免费 API 接口 / 官网平替 / 入门指南【2025年3月更新】
 
-> 更新日期：2025/03/14          
+> 更新日期：2025/03/15          
 
 [DeepSeek 专题](https://chat.yixiaai.com)提供 DeepSeek 部署教程，包括 PC 电脑端本地部署最新 DeepSeek-R1 模型，手机端通过 Termux 快速部署 DeepSeek-R1 模型。收录各大云平台服务（英伟达、微软、亚马逊AWS、阿里云、腾讯云、硅基流动 x 华为云）提供的（免费） API 接口服务，以及收录支持 DeepSeek API 应用等等。
 
@@ -18,7 +18,8 @@
 ## 已接入 DeepSeek R1（官方平替）
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/)
-* **🔥一下 AI：**[www.yixiaai.com](https://www.yixiaai.com/)
+  **🔥蓝鲸AI：**[chat.lanjing.ai](https://chat.lanjing.ai/)
+* **🔥一下AI：**[www.yixiaai.com](https://www.yixiaai.com/)
 * 秘塔 AI： [访问](https://metaso.cn/)
 * 纳米 AI： [访问](https://www.n.cn/)
 * Cursor： [访问](https://www.cursor.com/)
