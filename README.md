@@ -18,7 +18,7 @@
 ## 已接入 DeepSeek R1（官方平替）
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/)
-  **🔥蓝鲸AI：**[chat.lanjing.pro](https://chat.lanjing.pro/)
+  **🔥蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/)
 * **🔥一下AI：**[www.yixiaai.com](https://www.yixiaai.com/)
 * 秘塔 AI： [访问](https://metaso.cn/)
 * 纳米 AI： [访问](https://www.n.cn/)
