@@ -1,16 +1,16 @@
 # DeepSeek 部署教程 / 免费 API 接口 / 官网平替 / 入门指南【2025年6月更新】
 
-> 更新日期：2025/06/18       
+> 更新日期：2025/06/19       
 
-[DeepSeek 专题](https://chat.yixiaai.com)提供 DeepSeek 部署教程，包括 PC 电脑端本地部署最新 DeepSeek-R1 模型，手机端通过 Termux 快速部署 DeepSeek-R1 模型。收录各大云平台服务（英伟达、微软、亚马逊AWS、阿里云、腾讯云、硅基流动 x 华为云）提供的（免费） API 接口服务，以及收录支持 DeepSeek API 应用等等。
+[DeepSeek 专题](https://chat.lanjingai.org) 提供 DeepSeek 部署教程，包括 PC 电脑端本地部署最新 DeepSeek-R1 模型，手机端通过 Termux 快速部署 DeepSeek-R1 模型。收录各大云平台服务（英伟达、微软、亚马逊AWS、阿里云、腾讯云、硅基流动 x 华为云）提供的（免费） API 接口服务，以及收录支持 DeepSeek API 应用等等。
 
 ## 关于 DeepSeek
 
-[DeepSeek](https://chat.yixiaai.com) 是由深度求索（DeepSeek）自主研发的高性能大语言模型，以其开源、轻量化和强大的多场景适应能力受到广泛关注。其最新发布的 R1 大模型不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
+[DeepSeek](https://chat.lanjingai.org)  是由深度求索（DeepSeek）自主研发的高性能大语言模型，以其开源、轻量化和强大的多场景适应能力受到广泛关注。其最新发布的 R1 大模型不仅在性能上媲美了 OpenAI 的 o1、o3，且以对手 3% 的超低成本实现了这一突破。
 
 ## DeepSeek 官方
 
-* **DeepSeek 网页版：**[官网繁忙(chat.deepseek.com)](https://www.deepseek.com/) 、 [🔥稳定平替(chat.deepseek-free.org)](https://chat.yixiaai.com)
+* **DeepSeek 网页版：**[官网繁忙(chat.deepseek.com)](https://www.deepseek.com/) 、 [🔥稳定平替(chat.deepseek-free.org)](https://chat.lanjingai.org)
 * **DeepSeek 手机端：**[访问](https://download.deepseek.com/app/) 
 * **DeepSeek API：**[访问](https://platform.deepseek.com/)
 * **服务器繁忙？查看状态：**[访问](https://status.deepseek.com/)
@@ -19,7 +19,7 @@
 
 * **🔥AI智慧岛：**[chat.deepseek-free.org](https://chat.yixiaai.com/)
   **🔥蓝鲸AI：**[chat.lanjingai.org](https://chat.lanjingai.org/)
-* **🔥一下AI：**[www.yixiaai.com](https://www.yixiaai.com/)
+* **🔥极简AI：**[xsimplechat.com](https://xsimplechat.com/)
 * 秘塔 AI： [访问](https://metaso.cn/)
 * 纳米 AI： [访问](https://www.n.cn/)
 * Cursor： [访问](https://www.cursor.com/)
